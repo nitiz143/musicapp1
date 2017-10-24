@@ -43,7 +43,7 @@ function tunaDemo(){
 
 		tremolo = new tuna.Tremolo({
 
-			intensity: 5,
+			intensity: 10,
 			rate: 8,
 			stereoPhase: 140,
 			bypass: 1

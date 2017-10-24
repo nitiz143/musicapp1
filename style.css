@@ -69,3 +69,28 @@ kbd {
 	top:-30px !important;
 	left:30px !important;
 }
+.a1 {
+
+	border:0px;
+position: relative;
+top:-55px;
+  display:inline;
+  margin:0px 30px;
+  border-radius:17px;
+  padding: 10px;
+  outline: none;
+  cursor: pointer;
+  background-color:  #F5B041;
+  box-shadow: 0 9px #A2D9CE;
+
+
+}
+.a1:hover {
+  background-color: #F3C7AE;
+}
+
+.a1:active {
+
+  box-shadow: 0 2px #F1948A;
+  transform: translateY(4px);
+}
